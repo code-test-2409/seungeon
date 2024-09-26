@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2941
+
 cta = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
 word = input()
 
